@@ -1,1 +1,8 @@
 hello this is sandeep
+git clone <link>
+to create a folder use mkdir filename
+cd filename
+touch filename.txt
+vim to edit the files via cli
+git status,git add .,git status,git commit -m "added"
+git push
